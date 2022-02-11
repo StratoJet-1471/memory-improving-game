@@ -85,10 +85,10 @@ export default function GameBlock() {
             <Box sx={introBoxSx}>
                 <div style={{display: "flex", flexDirection: "column"}}>
                     <Typography variant="h5" component="span">
-                        This is a game for improving your visual memory.
+                        This is the game to improve your visual memory.
                     </Typography>
                     <Typography variant="body1" component="span">
-                        By clicking the "Start" button you will see a grid with a set of pictures for some time (you can select it in the "Select the duration" element). Then it will be hidden, and you should reproduce it as accurately as possible and check the result by clicking on the "Check" button.<br/>
+                        By clicking the "Start" button you will see a grid with a set of pictures for some time (you can select it in the "Select the duration" element). Then the grid will be hidden, and you should reproduce it as accurately as possible and check the result by clicking on the "Check" button.<br/>
                         Have a good game!
                     </Typography>
                 </div>
