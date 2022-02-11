@@ -19,7 +19,7 @@ export default function ShowTrueGridBlock(props) {
 
     return (
         <div>
-            <Button variant="contained" onClick={handleClick}>Show true grid</Button>
+            <Button variant="contained" onClick={handleClick}>Show the correct grid</Button>
             <Popover
             open={open}
             anchorEl={anchorEl}
